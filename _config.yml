@@ -30,7 +30,7 @@ tagline:             '的博客'
 description:         "我的博客"
 url:                 https://example.github.io
 baseurl:             ''
-gems:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
