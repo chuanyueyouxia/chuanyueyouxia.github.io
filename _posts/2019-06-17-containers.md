@@ -5,7 +5,7 @@ title: cdda容器json
 ## Containers容器
 Coolthulhu编辑了这个页面 on 20 6月2016日 · 1修订版
 ### Contains包含
-```
+```json
 "contains": 3
 ```
 Default value默认值： 0
